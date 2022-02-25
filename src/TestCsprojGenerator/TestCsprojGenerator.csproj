@@ -5,9 +5,9 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
 
-	<PackAsTool>true</PackAsTool>
-	<ToolCommandName>tcsp-gen</ToolCommandName>
-	<PackageOutputPath>./nupkg</PackageOutputPath>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>tcsp-gen</ToolCommandName>
+    <PackageOutputPath>./nupkg</PackageOutputPath>
 
   </PropertyGroup>
 
